@@ -44,3 +44,4 @@
 ## My blog posts
 
 - [Uniswap V4 deeep dive](https://solthodox-website.vercel.app/articles/Uniswap%20V4%20deep-dive) 🦄
+- [Exploring bit manipulation in smart contracts](https://solthodox-website.vercel.app/articles/Exploring%20bit%20manipulation%20in%20smart%20contracts) 🛠️
