@@ -1,7 +1,5 @@
 # Solthodox
 
-<img src="./img/terminal.gif"></img>
-
 > **Solidity / EVM engineer** designing, building, and **securing** DeFi protocols and on-chain financial infrastructure.
 
 I architect production smart contract systems that have **deployed and managed millions in TVL**, and I protect user funds as a **smart contract security researcher** — manual review, fuzzing, invariant testing, and adversarial protocol reasoning. Experience across DEX infrastructure, yield vaults, stablecoins, and liquidity protocols with teams including **Keyrock**, **Mangrove DEX**, **Veris Labs**, and **Thesis Defense**.
@@ -35,10 +33,14 @@ Public audit contests — top finishes protecting live protocols. Full repo: [So
 
 ## Public audit reports
 
-Private security reviews for production DeFi protocols.
+Security reviews for production protocols — public reports linked where available.
 
 | Protocol | Scope | Date | Report |
 | --- | --- | --- | --- |
+| [Best in Slot](https://bestinslot.xyz/) | BRC-20 programmable module — *Thesis Defense* | Aug 2025 | [PDF](https://github.com/thesis/defense_public_security-audit-reports/blob/main/PDFs/250912_Defense_by_Thesis-Best-in-Slot_brc20-programmable-module_Final_Security_Audit_Report.pdf) |
+| BitFi | Smart contracts — *Thesis Defense* | Jun 2025 | [PDF](https://github.com/thesis/defense_public_security-audit-reports/blob/main/PDFs/250623_Defense_by_Thesis_BitFi_Smart_Contracts_Final_Audit_Report.pdf) |
+| Tigris | Smart contracts — *Thesis Defense* | May 2025 | 🔒 Private |
+| TokenSoft DAO | DAO smart contracts — *Thesis Defense* | Sep 2024 | 🔒 Private |
 | [Possum Labs](https://www.possumlabs.io/) | PortalsV2 — upfront yield on staked yield-bearing assets | Mar 2024 | [PDF](https://github.com/Solthodox/audits/blob/main/PrivateAudits/PossumLabs-security-review-portalsV2.pdf) |
 | [Affine DeFi](https://affinedefi.com/) | Restaking | Feb 2024 | [PDF](https://github.com/Solthodox/audits/blob/main/PrivateAudits/affine-restaking-2024-02-29.pdf) |
 | [GOAT Finance](https://www.goat.fi/) | DeFi yield optimizer | Feb 2024 | [PDF](https://github.com/Solthodox/audits/blob/main/PrivateAudits/Goat-security-review.pdf) |
@@ -55,41 +57,3 @@ Private security reviews for production DeFi protocols.
 - [Exploring bit manipulation in smart contracts](https://solthodox-website.vercel.app/articles/Exploring%20bit%20manipulation%20in%20smart%20contracts) 🛠️
 - [Analysing the next bullrun](https://solthodox-website.vercel.app/articles/Analysing%20the%20next%20bullrun) 🐂
 
-## Languages and tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-</div>
-
-## Stats
-
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Solthodox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Solthodox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
